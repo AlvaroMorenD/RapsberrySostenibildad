@@ -25,7 +25,7 @@ Este proyecto, enfocado en el uso  de la tecnología con **Raspberry Pi**, A con
 | 6 |  Ejercicio 6        | [📥 Descargar](videos/proyecto6.mp4) |
 | 7 |  Ejercicio Express  | [📥 Descargar](videos/proyectoExpress.mp4) |
 
-#### En el proyecto Express hemos utilizado un zumbador y un sensor táctil capacitivo. La práctica consiste en una mariposa que se controla mediante el sensor táctil, y cuando esta se cruza con una manzana, el zumbador emite un sonido hasta que la mariposa deja de estar sobre ella.
+#### En el proyecto express hemos utilizado un zumbador y un sensor táctil capacitivo. La práctica consiste en una mariposa que se controla mediante el sensor táctil, y cuando esta se cruza con una manzana, el zumbador emite un sonido hasta que la mariposa deja de estar sobre ella.
 ---
 📂 Todos los vídeos están disponibles en la carpeta [`videos/`](videos/).
 
